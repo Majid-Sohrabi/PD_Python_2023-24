@@ -13,6 +13,7 @@ I will collect your home assignment solutions through private github repositorie
 | 01 | [00-Homeworks/[HW1_Python]-YOUR_NAME.ipynb](00-Homeworks/[HW1_Python]-YOUR_NAME.ipynb) | Mar, 24 |
 | -- | ------------------------| ------- |
 | 02 | [00-Homeworks/[HW2_Python]-YOUR_NAME.ipynb](00-Homeworks/[HW2_Python]-YOUR_NAME.ipynb) | Apr, 13 |
+| 03 | [00-Homeworks/[HW3_Python]-YOUR_NAME.ipynb](00-Homeworks/[HW3_Python]-YOUR_NAME.ipynb) | Apr, 25 |
 
 
 
